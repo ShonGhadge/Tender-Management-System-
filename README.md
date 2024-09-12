@@ -1,1 +1,2 @@
 # Tender-Management-System-
+The Tender Management System is a web-based application designed to streamline and automate the tendering process for organizations. This project allows users to create, submit, and manage tenders efficiently, ensuring a transparent and organized procurement process. The system facilitates communication between organizations and vendors, enabling easy bid submissions, evaluations, and contract awarding.
